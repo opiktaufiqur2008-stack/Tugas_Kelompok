@@ -1,4 +1,5 @@
 ini belum fiks ya
+masih coba coba
 
 
 Hasil Uji Studi Kasus 2  Oleh Ozora
