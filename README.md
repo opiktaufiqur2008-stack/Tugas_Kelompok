@@ -1,4 +1,4 @@
-Hasil Uji Studi Kasus 2  Oleh Ozora (22)
+Hasil Uji Studi Kasus 2  Oleh Ozora Zakiyah (22)
 Catatan tambahan: 
 Jenis kegiatan: Belmawa
 Dokumen: 4
@@ -12,7 +12,7 @@ Juara: (22 mod 3) + 1 = 1 + 1 = 2
 | 4  | 4     | 1       | 1          | Tidak berhak  | Ya      |
 | 5  | 1     | 4       | 1          | Berhak        | Ya      | --> uji khusus
 
-Hasil Uji Studi Kasus 2  Oleh Taufiq (17)
+Hasil Uji Studi Kasus 2  Oleh Taufiqur Rahman (17)
 Catatan tambahan: 
 Jenis kegiatan: PKM
 Dokumen: 2 + (17 mod 3) = 2 + 2 = 4
